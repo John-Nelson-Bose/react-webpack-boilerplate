@@ -1,0 +1,2 @@
+placeholder file to keep images folder alive
+otherwise webpack gets angry without this folder existing
